@@ -1,9 +1,9 @@
 library(dplyr)
-sth_data <- read_excel("TEST/2023 Cleaned STH number (1).xlsx")
+sth_data <- read_excel("C:\Users\sylvia.gitau_evidenc\Documents\Evidence Docs\Kenya Treatment Dashboard\2023 Cleaned STH number (1).xlsx")
 View(sth_data)
-sch_data <- read_excel("TEST/2023 Cleaned SCH number (1).xlsx")
+sch_data <- read_excel("C:\Users\sylvia.gitau_evidenc\Documents\Evidence Docs\Kenya Treatment Dashboard\2023 Cleaned SCH number (1).xlsx")
 View(sch_data)
-form_517c <- read_csv("Evidence Docs/DashBoard/form_517c (1).csv")
+form_517c <- read_csv("C:\Users\sylvia.gitau_evidenc\Documents\Evidence Docs\Kenya Treatment Dashboard\form_517c (1) (1).csv")
 View(form_517c)
 
 # Define the column name mappings
